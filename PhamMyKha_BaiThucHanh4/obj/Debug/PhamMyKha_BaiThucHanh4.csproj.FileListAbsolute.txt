@@ -1,0 +1,10 @@
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\bin\Debug\PhamMyKha_BaiThucHanh4.exe.config
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\bin\Debug\PhamMyKha_BaiThucHanh4.exe
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\bin\Debug\PhamMyKha_BaiThucHanh4.pdb
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\obj\Debug\PhamMyKha_BaiThucHanh4.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\obj\Debug\PhamMyKha_BaiThucHanh4.FormDangNhap.resources
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\obj\Debug\PhamMyKha_BaiThucHanh4.FormCauHinh.resources
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\obj\Debug\PhamMyKha_BaiThucHanh4.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\obj\Debug\PhamMyKha_BaiThucHanh4.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\obj\Debug\PhamMyKha_BaiThucHanh4.exe
+E:\LUUDULIEUSINHVIEN\PhamMyKha_BaiThucHanh4\PhamMyKha_BaiThucHanh4\obj\Debug\PhamMyKha_BaiThucHanh4.pdb
